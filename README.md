@@ -8,8 +8,8 @@ This project uses the following Python libraries and frameworks:
 - **PyTorch**: For building and training neural network models.
 - **NumPy**: For numerical computations and data manipulation.
 - **Pandas**: For data manipulation and analysis.
-- **scikit-learn**: For machine learning algorithms, data preprocessing, and evaluation metrics.
-- **Matplotlib**: For visualizing data and model performance.
+- **scikit-learn**: For machine learning algorithms, evaluation metrics.
+- **Matplotlib**: For visualizing data
 
 ## 🔢 Dataset
 The dataset is highly imbalanced, with far more legitimate transactions than fraudulent ones, making it a challenging problem.
